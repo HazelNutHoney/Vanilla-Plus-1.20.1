@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.hazel.vanillaplus.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+      "VanillaPlusMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
